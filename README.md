@@ -8,3 +8,22 @@ PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_1> java .\Simple.ja
 Hello World!
 PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_1> 
 ```
+
+
+```bash
+javac -d out Filename.java
+java -cp out session_2.Filename.java
+
+
+
+// example
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_2> javac -d out ScannerExample.java     
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_2> java -cp out session_2.ScannerExample
+Enter your name: 
+Dheeraj 
+Enter your age: 
+23
+Hello, Dheeraj ! 23 years old
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_2> 
+
+```
