@@ -1,5 +1,6 @@
-package session_2;
+// take input from user (name and age ) print output on screen by using scanner class
 
+package session_2;
 import java.util.Scanner;
 
 public class ScannerExample {
