@@ -1,3 +1,14 @@
+/*
+
+Q. Write a program in java to print Piramid in Decending order
+* * * * *
+* * * *
+* * *
+* *
+*
+
+*/
+
 package session_2;
 
 public class PiramidDecending {

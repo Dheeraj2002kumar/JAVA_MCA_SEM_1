@@ -1,3 +1,14 @@
+/*
+Q. Write a program in java to print piramid in Accending order.
+
+*
+* *
+* * *
+* * * *
+* * * * * 
+
+*/
+
 package session_2;
 
 public class PiramidAccending {
