@@ -19,3 +19,14 @@ public class OddEven {
         }
     }
 }
+
+// --------------------- output ------------------------------------
+/*
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_3> javac -d out OddEven.java
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_3> java -cp out OddEven.java
+Enter the number: 
+5
+5 is a Odd number.
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_3>  
+
+ */
