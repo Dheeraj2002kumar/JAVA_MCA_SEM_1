@@ -1,7 +1,5 @@
 
-// 2. example of nested if program in java that checks a number and prints whether it is positive, negative, or zero  and additionally whether it is even or odd if it is positive.
-
-package session_4;
+// 2. example of nested if program in java that checks a number and prints whether it is positive, negative, or zero  and additionally whether it is even or odd if it is positive
 
 import java.util.Scanner;
 
