@@ -24,3 +24,19 @@ public class SimpleCalculator {
         }
     }
 }
+
+
+
+// -------------------- output ---------------------------------
+
+// PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_3> javac -d out SimpleCalculator.java 
+// PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_3> java -cp out SimpleCalculator.java
+// Enter two number: 
+// 5
+// 6
+// Addition of num1 + num2 = 11
+// Subtraction of num1 + num2 = -1
+// Multiplication of num1 + num2 = 30
+// Division of num1 + num2 = 0.0
+// Reminder of num1 + num2 = 5.0
+// PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_3> 

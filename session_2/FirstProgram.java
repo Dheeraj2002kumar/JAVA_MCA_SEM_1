@@ -14,10 +14,11 @@ public class FirstProgram {
 // ------------------------- output ----------------------------
 
 /*
- PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_2> javac -d out FirstProgram.java
-PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_2> java -cp out session_2.FirstProgram
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_2> javac -d out FirstProgram.java
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_2> java -cp out FirstProgram.java
 Welcome
-Dheeraj
+KG
+Coding
 PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_2> 
 
 */
