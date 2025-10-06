@@ -1,0 +1,5 @@
+1. Write a Java program using a for loop to print numbers from 50 to 60. From this series, identify and display only the even numbers.
+
+2. series print and find out the prime number.
+
+3. 
