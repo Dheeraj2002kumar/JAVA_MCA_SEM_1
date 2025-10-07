@@ -29,3 +29,18 @@ public class ATMPinCheck {
         }
     }
 }
+
+/*
+ 
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_5> javac -d out ATMPinCheck.java
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_5> java -cp out ATMPinCheck.java
+Enter 4 digit PIN.
+3322
+Please enter correct PIN!
+4433
+Please enter correct PIN!
+1111
+PIN is Correct.
+PS C:\Users\hp\Desktop\MCA\Semester-1\JAVA_MCA_SEM_1\session_5> 
+
+ */
